@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-      Phone Directory
+      <p>Phone Directory</p>
     </div>
   );
 }
